@@ -9,10 +9,13 @@
         <module name="design-questions" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookmyshow" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="design-questions" options="-parameters" />
+      <module name="design-questions" options="" />
     </option>
   </component>
 </project>
